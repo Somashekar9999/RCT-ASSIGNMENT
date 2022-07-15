@@ -17,7 +17,7 @@ function App() {
     );
   }
   return (
-    <Flex minWidth='max-content' minHeight='maxContent' alignItems='center' gap='2' justifyContent="space-between">
+    <Flex minWidth='max-content' minHeight='maxContent' alignItems='center' gap='3' justifyContent="space-between">
   <Box p='2'>
     <Heading size='md'>Logo</Heading>
   </Box>
